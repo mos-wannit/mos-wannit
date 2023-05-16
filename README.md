@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <p align="center">
+<img height="150px" src="https://lanyard-profile-readme.vercel.app/api/307207094828924938" />
+</p>
+<p align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mosmo1212312121&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosmo1212312121&layout=compact&count_private=true&theme=dracula" alt="Mosmo" />
 </p>
 <!--
