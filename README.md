@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <p align="center">
   <img alig src="https://github.com/mos-wannit/mos-wannit/blob/main/mosmo-jaa.gif" />
