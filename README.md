@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=masuru-aomsin&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosmo1212312121&layout=compact&count_private=true&theme=dracula" alt="Masuru" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mos-wannit&show_icons=true&count_private=true&theme=dracula" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosmo1212312121&layout=compact&count_private=true&theme=dracula" alt="Masuru" />
 </p>
 <!--
 **mos-wannit/mos-wannit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
